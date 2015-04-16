@@ -1,0 +1,34 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="47CCB84E-0160-41DC-9AFB-2FD24BBAD4C7/f:Form1.Designer.cs" caret="81" fromTop="4" />
+      <File id="47CCB84E-0160-41DC-9AFB-2FD24BBAD4C7/f:Program.cs" caret="430" fromTop="16" />
+      <File id="47CCB84E-0160-41DC-9AFB-2FD24BBAD4C7/f:Form1.cs" caret="20645" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="47CCB84E-0160-41DC-9AFB-2FD24BBAD4C7/f:Form1.cs" caret="7948" fromTop="18" />
+      <File id="47CCB84E-0160-41DC-9AFB-2FD24BBAD4C7/f:Form1.cs" caret="18797" fromTop="17" />
+      <File id="47CCB84E-0160-41DC-9AFB-2FD24BBAD4C7/f:Form1.cs" caret="19139" fromTop="21" />
+      <File id="47CCB84E-0160-41DC-9AFB-2FD24BBAD4C7/f:Form1.cs" caret="19809" fromTop="20" />
+      <File id="47CCB84E-0160-41DC-9AFB-2FD24BBAD4C7/f:Form1.cs" caret="18458" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="TrimEnd" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

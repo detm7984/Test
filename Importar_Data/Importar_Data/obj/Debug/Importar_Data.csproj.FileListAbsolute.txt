@@ -1,0 +1,10 @@
+C:\Users\dtejada01\Documents\Visual Studio 2010\Projects\Importar_Data\Importar_Data\bin\Debug\Importar_Data.exe.config
+C:\Users\dtejada01\Documents\Visual Studio 2010\Projects\Importar_Data\Importar_Data\bin\Debug\Importar_Data.exe
+C:\Users\dtejada01\Documents\Visual Studio 2010\Projects\Importar_Data\Importar_Data\bin\Debug\Importar_Data.pdb
+C:\Users\dtejada01\Documents\Visual Studio 2010\Projects\Importar_Data\Importar_Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dtejada01\Documents\Visual Studio 2010\Projects\Importar_Data\Importar_Data\obj\Debug\Importar_Data.Form1.resources
+C:\Users\dtejada01\Documents\Visual Studio 2010\Projects\Importar_Data\Importar_Data\obj\Debug\Importar_Data.Properties.Resources.resources
+C:\Users\dtejada01\Documents\Visual Studio 2010\Projects\Importar_Data\Importar_Data\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\dtejada01\Documents\Visual Studio 2010\Projects\Importar_Data\Importar_Data\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\dtejada01\Documents\Visual Studio 2010\Projects\Importar_Data\Importar_Data\obj\Debug\Importar_Data.exe
+C:\Users\dtejada01\Documents\Visual Studio 2010\Projects\Importar_Data\Importar_Data\obj\Debug\Importar_Data.pdb
